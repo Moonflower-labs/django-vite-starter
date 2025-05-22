@@ -60,7 +60,7 @@ For fast setup this template includes three scripts:
 | `build.sh` | Build frontend for production, migrate database and collect static files in the backend. |
 | `start.sh` | Start both dev servers.                                                                  |
 
-1. Clone the repo `git clone <repo-url>` && `cd django-vite-starter`
+1. Clone the repo `git clone https://github.com/Moonflower-labs/django-vite-starter.git` && `cd django-vite-starter`
 
 2. Run the setup script. From the project root directory run: `./setup.sh`
 
